@@ -3634,7 +3634,7 @@ p {
 	width: 12px;
 	height: 12px;
 	border-radius: 50%;
-	background-color: #fff;
+	background-color: #995e7c;
 }
 
 .featured__space {
@@ -3649,7 +3649,7 @@ p {
 	width: 4px;
 	border-radius: 20px;
 	height: calc(100% + 10px + 40px);
-	background-color: #fff;
+	background-color: #995e7cb3;
 }
 
 .featured__space:last-child:before {
